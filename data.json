@@ -1356,7 +1356,7 @@
       "type": "boxShadow"
     },
     "Interactive Radius": {
-      "value": "{border-radii-6}",
+      "value": "{border-radii-4}",
       "type": "borderRadius"
     },
     "Card Radius": {
