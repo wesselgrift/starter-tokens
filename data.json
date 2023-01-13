@@ -1087,6 +1087,32 @@
           "value": "{Grey.200}",
           "type": "color"
         }
+      },
+      "States": {
+        "Pressed": {
+          "value": "rgba({Grey.1000}, 0.05)",
+          "type": "color"
+        },
+        "Selected": {
+          "value": "{Grey.1000}",
+          "type": "color"
+        },
+        "Active": {
+          "value": "{Light.Primary.Primary}",
+          "type": "color"
+        },
+        "On Active": {
+          "value": "{Light.Primary.On Primary}",
+          "type": "color"
+        },
+        "Disabled": {
+          "value": "{Grey.100}",
+          "type": "color"
+        },
+        "Disabled-copy": {
+          "value": "{Grey.400}",
+          "type": "color"
+        }
       }
     },
     "Dark": {
