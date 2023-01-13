@@ -1109,7 +1109,7 @@
           "value": "{Grey.100}",
           "type": "color"
         },
-        "Disabled-copy": {
+        "On Disabled": {
           "value": "{Grey.400}",
           "type": "color"
         }
@@ -1232,6 +1232,32 @@
           "type": "color"
         },
         "Outline Variant": {
+          "value": "{Grey.600}",
+          "type": "color"
+        }
+      },
+      "States": {
+        "Pressed": {
+          "value": "rgba({Grey.0}, 0.05)",
+          "type": "color"
+        },
+        "Selected": {
+          "value": "{Grey.0}",
+          "type": "color"
+        },
+        "Active": {
+          "value": "{Dark.Primary.Primary}",
+          "type": "color"
+        },
+        "On Active": {
+          "value": "{Dark.Primary.On Primary}",
+          "type": "color"
+        },
+        "Disabled": {
+          "value": "{Grey.700}",
+          "type": "color"
+        },
+        "On Disabled": {
           "value": "{Grey.600}",
           "type": "color"
         }
