@@ -1363,37 +1363,39 @@
       },
       "type": "typography"
     },
-    "BFF": {
-      "value": "{dimension-4}",
-      "type": "dimension"
-    },
-    "Best Friends": {
-      "value": "{dimension-8}",
-      "type": "dimension"
-    },
-    "Close Friends": {
-      "value": "{dimension-16}",
-      "type": "dimension"
-    },
-    "Close-ish Friends": {
-      "value": "{dimension-24}",
-      "type": "dimension"
-    },
-    "Friends": {
-      "value": "{dimension-32}",
-      "type": "dimension"
-    },
-    "Acquaintances": {
-      "value": "{dimension-40}",
-      "type": "dimension"
-    },
-    "Distant Acquaintances": {
-      "value": "{dimension-56}",
-      "type": "dimension"
-    },
-    "Stranger": {
-      "value": "{dimension-80}",
-      "type": "dimension"
+    "Vertical": {
+      "BFF": {
+        "value": "{dimension-4}",
+        "type": "dimension"
+      },
+      "Best Friends": {
+        "value": "{dimension-8}",
+        "type": "dimension"
+      },
+      "Close Friends": {
+        "value": "{dimension-16}",
+        "type": "dimension"
+      },
+      "Close-ish Friends": {
+        "value": "{dimension-24}",
+        "type": "dimension"
+      },
+      "Friends": {
+        "value": "{dimension-32}",
+        "type": "dimension"
+      },
+      "Acquaintances": {
+        "value": "{dimension-40}",
+        "type": "dimension"
+      },
+      "Distant Acquaintances": {
+        "value": "{dimension-56}",
+        "type": "dimension"
+      },
+      "Stranger": {
+        "value": "{dimension-80}",
+        "type": "dimension"
+      }
     },
     "Level 3": {
       "value": "{box-shadow-large}",
@@ -1418,6 +1420,40 @@
     "Pill Radius": {
       "value": "{border-radii-999}",
       "type": "borderRadius"
+    },
+    "Horizontal": {
+      "BFF": {
+        "value": "{dimension-4}",
+        "type": "dimension"
+      },
+      "Best Friends": {
+        "value": "{dimension-8}",
+        "type": "dimension"
+      },
+      "Close Friends": {
+        "value": "{dimension-16}",
+        "type": "dimension"
+      },
+      "Close-ish Friends": {
+        "value": "{dimension-24}",
+        "type": "dimension"
+      },
+      "Friends": {
+        "value": "{dimension-32}",
+        "type": "dimension"
+      },
+      "Acquaintances": {
+        "value": "{dimension-24}",
+        "type": "dimension"
+      },
+      "Distant Acquaintances": {
+        "value": "{dimension-32}",
+        "type": "dimension"
+      },
+      "Stranger": {
+        "value": "{dimension-40}",
+        "type": "dimension"
+      }
     }
   },
   "$themes": [],
