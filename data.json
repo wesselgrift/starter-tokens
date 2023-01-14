@@ -1431,15 +1431,15 @@
         "type": "dimension"
       },
       "Close Friends": {
-        "value": "{dimension-16}",
+        "value": "{dimension-12}",
         "type": "dimension"
       },
       "Close-ish Friends": {
-        "value": "{dimension-24}",
+        "value": "{dimension-16}",
         "type": "dimension"
       },
       "Friends": {
-        "value": "{dimension-32}",
+        "value": "{dimension-20}",
         "type": "dimension"
       },
       "Acquaintances": {
