@@ -842,6 +842,10 @@
       "value": "80",
       "type": "dimension"
     },
+    "border-radii-0": {
+      "value": "0",
+      "type": "borderRadius"
+    },
     "border-radii-2": {
       "value": "2",
       "type": "borderRadius"
