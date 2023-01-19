@@ -1094,7 +1094,7 @@
       },
       "States": {
         "Pressed": {
-          "value": "rgba({Grey.1000}, 0.05)",
+          "value": "rgba({Grey.1000}, {opacity-0,05})",
           "type": "color"
         },
         "Selected": {
@@ -1242,7 +1242,7 @@
       },
       "States": {
         "Pressed": {
-          "value": "rgba({Grey.0}, 0.05)",
+          "value": "rgba({Grey.0}, {opacity-0,05})",
           "type": "color"
         },
         "Selected": {
