@@ -1263,17 +1263,7 @@
         }
       }
     },
-    "Display 1": {
-      "value": {
-        "fontFamily": "{base-font-family}",
-        "fontWeight": "{font-weight-medium}",
-        "lineHeight": "{line-height-40}",
-        "fontSize": "{font-size-32}",
-        "letterSpacing": "{letter-spacing--2,0}"
-      },
-      "type": "typography"
-    },
-    "Display 2": {
+    "Page heading": {
       "value": {
         "fontFamily": "{base-font-family}",
         "fontWeight": "{font-weight-medium}",
@@ -1283,7 +1273,7 @@
       },
       "type": "typography"
     },
-    "Title 1": {
+    "Section heading": {
       "value": {
         "fontFamily": "{base-font-family}",
         "fontWeight": "{font-weight-medium}",
@@ -1293,7 +1283,7 @@
       },
       "type": "typography"
     },
-    "Title 2": {
+    "Navigation heading": {
       "value": {
         "fontFamily": "{base-font-family}",
         "fontWeight": "{font-weight-medium}",
@@ -1303,7 +1293,7 @@
       },
       "type": "typography"
     },
-    "Title 3": {
+    "Body emphasized": {
       "value": {
         "fontFamily": "{base-font-family}",
         "fontWeight": "{font-weight-medium}",
@@ -1323,7 +1313,7 @@
       },
       "type": "typography"
     },
-    "Subtitle": {
+    "Subheading": {
       "value": {
         "fontFamily": "{base-font-family}",
         "fontWeight": "{font-weight-medium}",
